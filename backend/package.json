@@ -1,0 +1,28 @@
+{
+  "name": "test-legal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GibsonCS/test-legal.git"
+  },
+  "engines": {
+    "node": "22"
+  },
+  "keywords": [],
+  "author": "Gibson Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GibsonCS/test-legal/issues"
+  },
+  "homepage": "https://github.com/GibsonCS/test-legal#readme",
+  "devDependencies": {
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
