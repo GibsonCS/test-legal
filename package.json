@@ -1,0 +1,29 @@
+{
+  "name": "test-legal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "backend": "cd backend && npm install && npm run build && npm start",
+    "frontend": "cd frontend && npm install && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GibsonCS/test-legal.git"
+  },
+  "engines": {
+    "node": "22"
+  },
+  "keywords": [],
+  "author": "Gibson Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GibsonCS/test-legal/issues"
+  },
+  "homepage": "https://github.com/GibsonCS/test-legal#readme",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
