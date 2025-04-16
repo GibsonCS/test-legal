@@ -1,6 +1,8 @@
 export class BaseModel {
     name;
-    constructor(name) {
+    id;
+    constructor(id, name) {
         this.name = name;
+        this.id = id;
     }
 }

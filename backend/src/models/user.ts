@@ -1,7 +1,16 @@
 import { BaseModel } from "./baseModel.js";
 
 export class User extends BaseModel {
-  constructor(name: string) {
-    super(name);
+  idAreaOfInteresse: string;
+  idLocalization: string;
+  constructor(
+    id: string,
+    name: string,
+    idAreaInteresse: string,
+    idLocalization: string
+  ) {
+    super(id, name);
+    this.idAreaOfInteresse = idAreaInteresse;
+    this.idLocalization = idLocalization;
   }
 }

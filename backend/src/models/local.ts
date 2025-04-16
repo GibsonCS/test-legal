@@ -1,7 +1,7 @@
 import { BaseModel } from "./baseModel";
 
 export class Local extends BaseModel {
-  constructor(name: string) {
-    super(name);
+  constructor(id: string, name: string) {
+    super(id, name);
   }
 }

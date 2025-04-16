@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "sao_paulo"
+  },
+  {
+    "id": "1",
+    "name": "rio_de_janeiro"
+  },
+  {
+    "id": "2",
+    "name": "minas"
+  },
+  {
+    "id": "3",
+    "name": "brasilia"
+  },
+  {
+    "id": "4",
+    "name": "acre"
+  },
+  {
+    "id": "5",
+    "name": "manaus"
+  }
+]

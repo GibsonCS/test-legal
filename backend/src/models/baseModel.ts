@@ -1,6 +1,8 @@
 export class BaseModel {
-  private name: string;
-  constructor(name: string) {
+  name: string;
+  id: string;
+  constructor(id: string, name: string) {
     this.name = name;
+    this.id = id;
   }
 }
