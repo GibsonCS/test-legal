@@ -22,7 +22,9 @@ With this project, people will be able to connect based on affinity (location or
   * Zod to data validations
 
 ## *Demo*
-https://github.com/user-attachments/assets/f1acd3fa-65c5-4289-843e-96238475527c
+https://github.com/user-attachments/assets/4f43817d-7304-472e-849b-e8b73d26bf1c
+
+-96238475527c
 ***
 
 
