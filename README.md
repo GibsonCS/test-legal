@@ -24,8 +24,12 @@ With this project, people will be able to connect based on affinity (location or
 ## *Demo*
 https://github.com/user-attachments/assets/4f43817d-7304-472e-849b-e8b73d26bf1c
 
--96238475527c
-***
+## Main decisions of of the project?
+One of the biggest decisions in developing the MVP was deciding whether to pre-define the locations and where the data would be stored. This meant we didn't have to worry about the database and focused on the speed of delivery of the MVP.
+
+## If we had more time?
+I would refactor the backend code, implement unit tests, and further improve the frontend.
+
 
 
 ## ***To run this project***
