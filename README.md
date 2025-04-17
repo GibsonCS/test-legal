@@ -43,7 +43,10 @@ I would refactor the backend code, implement unit tests, and further improve the
 
 5. Run ``npm run start`` to start application. This will go install full dependency from frontend and backend. This will start compiler and after it the application will start
 
-6.  The application will be available in ``http://localhost:5173/``
+6. obs: Wait for message Server is running at 3000 in terminal
+
+7.  The application will be available in ``http://localhost:5173/``
+
 
 ## **Project stage**
 
